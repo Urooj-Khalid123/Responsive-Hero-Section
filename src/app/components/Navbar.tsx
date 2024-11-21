@@ -7,7 +7,7 @@ const inter = Inter({ subsets: [ 'latin' ] })
 
 const Navbar = () => {
   //Navbar items here
-  let navItems = [
+  const navItems = [
     {
       name: "World",
       link: "#",
